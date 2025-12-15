@@ -1,4 +1,4 @@
-# Multi-DOF-Robotic-Arm-Control-Motion-Planning
+# Multi DOF Robotic Arm Control Motion Planning
 
 **Analytical IK, Jacobian IK, and RRT\*** for Planar and Spatial Manipulators
 
